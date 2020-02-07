@@ -8,7 +8,7 @@ subtitle: '寒塘渡鹤影 冷月葬花魂'
 description: '尽力记下经历的一切，回望时才有自己真切活过的感觉'
 keywords:
 author: kamuschan
-language: zh-Hans
+language: zh-CN
 timezone: ''
 
 # URL
@@ -93,7 +93,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
